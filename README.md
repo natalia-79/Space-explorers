@@ -1,14 +1,7 @@
 # Space Explorers: Where Are They Now?
 
-Starry blue edition, November 14, 2026. Created by a sibling team with ChatGPT/Codex assistance.
+Starry blue edition, November 14, 2026. Created by a SpaceC0ntrolteam with ChatGPT/Codex assistance.
 
-## Upload to GitHub
-
-Unzip this folder. Upload all files and folders inside it to your public repository. Ensure index.html appears at the repository root. In Settings > Pages choose Deploy from a branch, main, / (root), then Save. No build command or installation is needed.
-
-## What changed
-
-Dark navy theme, blue accents, a twinkling starfield and a sparkle pause control. Reduced-motion preferences disable twinkling. Every original SVG includes an embedded SI-generated watermark. The interactive schematic also has a visible label. NASA photographs retain their original attribution and are not labeled generated. Old screenshots were removed because they showed the previous design.
 
 # Space Explorers: Where Are They Now?
 ### The Hardware We Left Behind
