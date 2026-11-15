@@ -8,14 +8,20 @@ NASA Space Apps Hackathon
 # Space Explorers: Where Are They Now?
 ### The Hardware We Left Behind
 
-A self-contained field museum for school-age explorers. Five mission files pair each machine’s fate with the scientific evidence it helped collect. Visitors can compare a parked lunar rover, two silent Mars explorers, a deliberate lunar impact and a probe still traveling through interstellar space.
+A self-contained field museum for school-age explorers. Five mission files pair each machine’s fate with the scientific evidence it helped collect. Visitors can compare a parked lunar rover, two silent Mars explorers, a deliberate lunar impact and a probe still traveling through interstellar space. [Explore Space Explorers: Where Are They Now?](https://natalia-79.github.io/Space-explorers/)
+
+## Visit the Website
+
+[Explore Space Explorers: Where Are They Now?](https://natalia-79.github.io/Space-explorers/)
 
 ## Open the museum
 
-Unzip the download, then double-click **index.html**. Use a current version of Chrome, Safari, Edge or Firefox with JavaScript enabled. All exhibit content, controls and images run locally. Following a NASA source link requires an internet connection.
+[Explore Space Explorers: Where Are They Now?](https://natalia-79.github.io/Space-explorers/)
+or: Unzip the download, then double-click **index.html**. Use a current version of Chrome, Safari, Edge or Firefox with JavaScript enabled. All exhibit content, controls and images run locally. Following a NASA source link requires an internet connection.
 
 ## Visitor guide
 
+[Explore Space Explorers: Where Are They Now?](https://natalia-79.github.io/Space-explorers/)
 1. Open **The Ghost Archive** and choose a destination or status. Click an exhibit to read its illustrated file, view a credited NASA photograph and inspect the mission records. Press Escape or Close to leave.
 2. Use the **star map** to find hardware by destination. Its orbital curves are schematic. They do not represent measured trajectories or current spacecraft positions.
 3. Compare rock chemistry, vibrations and light in **Read the evidence**. Follow one mission or all 24 events on the **timeline**.
