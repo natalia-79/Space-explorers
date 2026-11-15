@@ -34,10 +34,3 @@ Unzip the download, then double-click **index.html**. Use a current version of C
 | docs/SOURCES.md, docs/CURATOR-NOTES.md | Primary NASA references, image credits and curatorial choices |
 | docs/TESTING.md, docs/screenshots/ | Verification and three presentation images |
 
-## Publish and maintain
-
-[Follow the GitHub Pages guide](docs/DEPLOY.md). Plain HTML, CSS, JavaScript, JPG and SVG files need no build, dependencies, server, keys, cookies or accounts to run. The downloadable ZIP places the web files at its root for branch-based publishing. The managed hosting checkout keeps those same files in dist/. To change an exhibit, edit its record in data.js. Keep source links and photo captions with the claims they support. Recheck Voyager's evolving operational status before future presentations.
-
-## Research, credit and provenance
-
-[Research sources and image credits](docs/SOURCES.md). The interactive files distinguish credited NASA imagery from original AI-assisted educational illustrations. Space Explorers is an independent project and has no NASA endorsement. This reference edition was prepared on November 2, 2026, before the November 14–15 hackathon. [Participation and authorship notes](docs/SUBMISSION.md).
