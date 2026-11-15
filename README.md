@@ -1,6 +1,6 @@
 # Space Explorers: Where Are They Now?
 
-Created by a SpaceC0ntrolteam with ChatGPT/Codex assistance.
+Created by the SpaceC0ntrol team with ChatGPT/Codex assistance.
 Nov 14, 2026
 NASA Space Apps Hackathon
 
