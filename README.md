@@ -1,6 +1,8 @@
 # Space Explorers: Where Are They Now?
 
-Starry blue edition, November 14, 2026. Created by a SpaceC0ntrolteam with ChatGPT/Codex assistance.
+Created by a SpaceC0ntrolteam with ChatGPT/Codex assistance.
+Nov 14, 2026
+NASA Space Apps Hackathon
 
 
 # Space Explorers: Where Are They Now?
